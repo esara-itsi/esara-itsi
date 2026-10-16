@@ -7,7 +7,7 @@
 
 ### 📚 Sobre mí:
 - 🎓 Cursando tercer año técnico en ITSI.
-- 🛠️ Aprendiendo sobre redes, soporte y sistemas.
+- 🛠️ Aprendiendo sobre redes, soporte, sistemas y scripts de automtización y monitoreo
 
 ### 🌟 Mis redes o contacto:
 - ¡Próximamente agregaré mis proyectos de la escuela por aquí!
